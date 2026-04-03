@@ -1,7 +1,7 @@
 # Modern-Chair
-🪑 Modern Chair UI
+##🪑 Modern Chair UI
 
-### A sleek and modern chair product showcase UI built using HTML5 and CSS3, designed to present furniture in a visually appealing and minimal way.
+A sleek and modern chair product showcase UI built using HTML5 and CSS3, designed to present furniture in a visually appealing and minimal way.
 
 This project focuses on clean layout, smooth interactions, and elegant design, making it a great addition to a front-end developer portfolio.
 
